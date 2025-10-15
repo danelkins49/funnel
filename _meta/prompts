@@ -255,3 +255,50 @@ Once stored, simply reply **“got it.”**
   - Put the mechanism in the headline.
 
 ---
+###
+### UGC Claude Script Rewrite Prompt
+I want you to write me a 30–45 second very casual Facebook ad script to be read aloud by a UGC creator.
+
+For this, I want you to use the below framework:
+
+### Framework PR-3: Scarcity + Urgency  
+**Structure:**
+- **Hook:** Solution benefits  
+- **Scarcity Factor:** Limited availability  
+- **Consequence:** What happens if they wait  
+- **Bonus:** Incentive for acting now  
+- **Deadline:** Time pressure  
+- **CTA:** Urgent action  
+
+**Template:**
+"[YOUR SOLUTION] can [BENEFIT], but [SCARCITY FACTOR].
+
+Wait too long and [CONSEQUENCE].
+
+Act now: [BONUS/INCENTIVE]
+
+[URGENT CTA]"
+
+
+
+Inspiration Example (Indirect Competitor Ad Script)
+
+You ever feel like your gym should be way more packed by now? You’ve probably tried ads, boosting posts, maybe set up tents at an event. But it’s not adding up.  
+The thing is, people are scrolling. Literally scrolling right now.  
+And they’re driving past your place every single day.  
+Looking for a place that actually cares. And you are that place.  
+But if your offer is unclear and your ads just aren’t working right or, even worse, you’re invisible online, they’re never going to find you.  
+
+It’s not your fault. You’ve probably been trying to do everything yourself. Market, coach, sell, serve.  
+But attention is currency now. And if you’re not capturing it, someone else is.  
+
+That’s why I put together a free training for you that breaks down exactly how you can build a lead machine inside of your gym.  
+One that runs 24/7 and actually brings in people that are already looking for you.  
+
+To watch the training, go ahead and click the link down below. There’s no opt-in required on this one, so you’re set.  
+
+When you do watch it, if it makes sense and you’re a real gym owner that’s not only smart but wants help installing this lead machine into your business today, fill out the form below the video.  
+Book a call with our team and I’ll see you on the other side.
+
+
+#############################

@@ -1,135 +1,175 @@
-####
-Researching Invisalign
+---
+title: "Invisalign Market Research & Awareness Framework"
+description: "Comprehensive research outline for Invisalign ads, personas, and market sophistication mapping."
+author: "Dan Elkins"
+date: "2025-10-14"
+---
 
-1. IE Reddit, Quora, Google in general are the best places for general market feedback/researc
+# 🦷 Researching Invisalign
 
-2. Go through the ads library to understand competition and see the market sophistication
+---
 
-3. When doing research notice trends, IE Invislaign theres a lot of before an afters (transformation)
+## I. Research Process
 
-Understand how many competitors, ad types that are running
+1. **Platforms for Market Feedback**  
+   - Reddit, Quora, and Google are top sources for gathering raw market feedback and audience sentiment.
 
-Also looking at what the audience is SAYING 
-- are they complaining, common concerns, or benefits that are commonly talked about?
+2. **Ad Library Research**  
+   - Explore the Facebook Ad Library to understand competition and market sophistication.  
+   - Identify how many competitors exist, what ad types are running, and what creative themes dominate.
 
-Invasliagn alot of people are fearing pain regarding the process and maintenance etc... 
+3. **Pattern Recognition**  
+   - Notice recurring trends.  
+   - For Invisalign, there’s a strong *before-and-after* (transformation) theme.
 
-HAVING A pain free treatment
-"I want to have a pain free treatment"
-"I want to hve a pain free way of getting a better smile"
+4. **Audience Insights**  
+   - Study what the audience is saying in comments and discussions:  
+     - Are they **complaining**?  
+     - What **concerns** or **benefits** come up repeatedly?
 
-Move all desires / painpoints to an "I want to statement"
-much easier to build an ad concept around these statements
+---
 
-Client demopraphic
-1. how old are people looking for this "solution" typically?
-2. We're going to go for somebody thats 27/up in this invisalign case
+## II. Key Audience Desires & Pain Points
 
-"I want a non itrusive way of fixing my teeth"
-"I want a cost effective way of fixing my smile"
-"I want a pain free way of fixing my smile"
-I want a stain free way to straigten my teeth? or throw in a "Free teeth whitening" after. 
-Leave you with an aligned and white smile
+Common fears around Invisalign:
+- Pain during treatment or maintenance  
+- Discomfort about the process  
+- Desire for simplicity and aesthetics  
 
-Persona:
-5 stages of market awareness
+Transform these into “I want” statements — they anchor ad concepts easily.
 
-1. Unaware
-i. Who is this person?
-- The prospect is either not aware of his desire or wont honestly admit it without being led into it by your ad
+### Examples:
+- “I want a **pain-free** way of getting a better smile.”  
+- “I want a **non-intrusive** way of fixing my teeth.”  
+- “I want a **cost-effective** way of improving my smile.”  
+- “I want a **stain-free** smile — or maybe a free teeth whitening to finish the treatment.”  
 
-This level is most difficult
-ii. What does your headline need to do?
-Sell Nothing. Promise nothing. Instead, your headline echoes a dissatisfaction that picks
+**Tip:**  
+Every desire or pain point → rewrite it as an **“I want” statement.**  
+That becomes your creative foundation.
 
+---
 
+## III. Client Demographic
 
+1. **Age Range:**  
+   - Target: **27 and up** — working professionals with disposable income.
 
-2. Problem Aware
-i. Knows he has a problem but doesnt see connection between fulfilling their need and your product
-ii. Name the need and or solution in your headline - dramatize it so vividly that they see this your product as their solution
+2. **Persona Themes:**  
+   - Seeking convenience, confidence, and credibility.  
+   - Likely skeptical of painful or overly complex treatments.
 
-Your product is the inevitable solution
+---
 
+## IV. 5 Stages of Market Awareness
 
+### **1. Unaware**
+- **Who is this person?**  
+  Doesn’t know they have a problem or won’t admit it.  
+  This level is the hardest to sell to.  
+- **Headline Goal:**  
+  Sell *nothing.* Promise *nothing.*  
+  Instead, echo a dissatisfaction they feel but can’t articulate.
 
-3. Solution Aware
-i. Knows he wants what the product does but doesnt know the product exists
-ii. Name the desire and or its solution in your headline
-Prove that the solution you just named can be accomplished
-Show that the. mechanism of that accomplishment is contained by your product
+---
 
+### **2. Problem Aware**
+- **State:**  
+  Knows they have a problem but doesn’t connect it to your product.  
+- **Headline Goal:**  
+  Name the *need* or *solution* directly.  
+  Dramatize it so clearly they see your product as the natural fix.
 
+> “Your product becomes the *inevitable solution.*”
 
+---
 
+### **3. Solution Aware**
+- **State:**  
+  Knows what they want, but not that your product exists.  
+- **Headline Goal:**  
+  Name the desire and show it’s achievable.  
+  Prove that your *mechanism* (how it works) delivers that outcome.
 
-4. Product Aware
-i. Knows of your product but doesnt want it yet. The bulk of advertising is here
-ii. Reinforce their desire for your product
-Sharpen his image of the way your product satisfies that desire
-SHow where and when your product satisfies that desire
-Introduce new proof/documentation of how well your product satisfies that desire
-Announce a new mechanism in that product to enable it to satisfy that desire
+---
 
+### **4. Product Aware**
+- **State:**  
+  Knows about your product but isn’t convinced yet.  
+  *Most advertising happens here.*  
+- **Headline Goal:**  
+  Reinforce their desire.  
+  Sharpen the image of your product fulfilling it.  
+  Add new proof, documentation, or features.  
+  Announce new mechanisms that make the product even better.
 
+---
 
+### **5. Most Aware**
+- **State:**  
+  Ready to buy but hasn’t acted.  
+  *Bottom-of-funnel stage.*  
+- **Headline Goal:**  
+  Name the product and the price.  
+  Make buying feel like an easy, obvious next step.
 
+---
 
-5. Most Aware
-i. Wants to buy your product but hasnt gotten around to it
+## V. Market Sophistication Stages
 
-Bottom of funnel (they are likely already on your list)
+### **Stage 1 – First to Market**
+- **Example:**  
+  Prospects have never heard of a product like yours.  
+  Market is in the 3rd or 4th level of awareness.  
+- **Headline Strategy:**  
+  Be *simple and direct.*  
+  Name either the *need* or the *claim.*  
+  Dramatize that claim, then use your product to prove it works.
 
-ii. Name the product and the price
+---
 
-##### 
+### **Stage 2 – Second to Market**
+- **Example:**  
+  Product is still new, but competition exists.  
+- **Headline Strategy:**  
+  *Enlarge* successful claims.  
+  Outdo your competitors.  
+  Whoever can pay more to acquire a customer wins.
 
+---
 
-Market Sophistication
+### **Stage 3 – Prospects Have Heard It All**
+- **Example:**  
+  Prospects are jaded; big claims no longer land.  
+- **Headline Strategy:**  
+  Shift focus from *what* the product does to *how* it does it.  
+  Introduce a **new mechanism** — a unique process or technology.  
+  A fresh mechanism makes old promises believable again.
 
+---
 
-Stage 1 - You are first to market
-Example :  Your prospects have never recieved any information about a product like yours before.. Your market is in the 3rd or 4th level of awareness
+### **Stage 4 – It’s Getting Crowded**
+- **Example:**  
+  Competitors are now copying your mechanism.  
+- **Headline Strategy:**  
+  Embellish your mechanism — show how it solves *more* of the problem.  
+  But when claims push believability, you have two choices:  
+  1. Introduce a new mechanism.  
+  2. Move to the next stage.
 
-Headline Need : Your job is to get your market interested. Your story is brand new
-Be simple and direct. Name either the need or claim in your headline. Dramatize that claim in your copy then bring in your product to prove that it works
+---
 
+### **Stage 5 – Reviving a Dead Product**
+- **Example:**  
+  Market no longer believes or cares about your advertising.  
+  Similar to the *unaware* level of awareness.  
+- **Headline Strategy:**  
+  Use **identification instead of desire.**  
+  Show your audience the version of themselves they *want* to be.  
+  Use imagery to display social perception — how others will see them.  
+  Anchor the brand in *values and identity.*  
 
+> “What do you stand for that your market can get behind?  
+> What do you stand against?”
 
-
-Stage 2 - You are second to market
-Example : You're second to market but your product is still new to the prospect
-Headline : In this stage, ENLARGE the sucessful claim. Take it to the Limit. in other words, take your compeitition's claims and top them. THen outbid your compeitition to stay on top (Who ever can pay more to acquire a customer wins)
-
-
-Stage 3 - Your prospects have heard it all
-Example : In this stage your prospects have heard it all. They don't believe your old claims. You cant out exclaim your competitors
-Your emphasis must shift from what the product does to HOW it does.
-
-Headline : YOu need a new mechanism. Focus on the specific mechanism that makes your product the best. You are looking for a new process to make the old promises work.
-
-A new mechanism will make the old claims seem fresh and believable again. Put your mechanism in your headline.
-
-
-Stage 4- It's Getting Crowded
-Example : Your competitors are now copying your mechanism
-Headline : You need to embelish and make your mechanism solve MORE of the problem
-However, at some point you will push your product claims beyond believability. At this point you have 2 options
-
-1. Introduce a new mechanism
-2. Move to the next stage
-
-
-Stage 5 - Reviving a Dead Product
-Your prospects no longer believe in your advertising. They no longer wish to be aware of your product
-
-This stage is similar to the problems of the 5th level of awareness (unaware) The strategy to solve this problem is the same
-
-Headline : You must now use identification instead of desire to bring your prospect into your ad
-Show your market the version of themselves they want to be. Use images to show your market how others will view them when they use your product
-
-What do you stand for that your market can get behind? What do you stand against?
-
-
-
-
+---

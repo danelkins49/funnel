@@ -1,3 +1,10 @@
+---
+title: "Quiz Funnel Philosophy"
+description: "The foundational philosophy behind quiz funnels — trust, personalization, and data-driven empathy."
+author: "Dan Elkins"
+date: "2025-10-14"
+---
+
 # 🧩 QUIZ FUNNEL PHILOSOPHY
 
 **Purpose:** Capture attention, build trust, and create personalized conversions through data-driven empathy.
@@ -6,23 +13,23 @@
 
 ## I. The Core Benefits
 
-### 1. Zero-Party Data
+### **1. Zero-Party Data**
 - You *own* the answers your prospects give you — direct, compliant, and voluntary.  
 - Every question builds a profile you can market to personally.  
 
-### 2. Email List Growth
+### **2. Email List Growth**
 - Each quiz completion grows your owned list of warm leads.  
 
-### 3. Onboarding Experience
+### **3. Onboarding Experience**
 - Asking thoughtful questions shows care.  
 - Prospects feel seen — like a real conversation, not a pitch.  
 
-### 4. Personalized Messaging
+### **4. Personalized Messaging**
 - Custom experience for every lead.  
 - Send case studies, examples, and offers mapped to their specific situation.  
 - Replace “one-size-fits-all” with “this was built for me.”  
 
-### 5. Smart Recommendations
+### **5. Smart Recommendations**
 - Route people to the right product, service, or price point.  
 - Higher conversions, happier customers, fewer refunds.  
 
@@ -57,18 +64,19 @@ People hesitate for three reasons:
 
 ## IV. How to Build Trust
 
-### Demonstration > Persuasion
+### **Demonstration > Persuasion**
 - *Show* what you mean, don’t just *tell.*  
 - Use experiential proof: let them feel or test it through the quiz itself.  
 
-### Preempt Self-Distrust
+### **Preempt Self-Distrust**
 - Frame your offer as *unfail-able.*  
 - Show how it still works even if they’ve failed before.  
 - Make success feel built-in — not dependent on willpower or discipline.  
 
-### Trust Audit
+### **Trust Audit**
 Line-check every page and ask —  
 > “Does this build trust or kill it?”  
+
 If it confuses, overwhelms, or sounds like a pitch, it kills trust.  
 
 ---
