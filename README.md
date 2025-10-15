@@ -26,11 +26,16 @@ This repository exists to:
 
 | Folder | Description |
 |--------|--------------|
-| `/frameworks` | Core funnel structures and SOPs. |
+| `/_meta` | Prompts used in this ecosystem |
+| `/_Quiz` | Quiz Funnel Philosphy and Hook template for Mistake IUL Funnel |
+
+
+| File | Description |
+|--------|--------------|
 | `/hooks` | Swipe file of proven hook formulas and ad openers. |
-| `/strategies` | Step-by-step playbooks for launch, nurturing, and retargeting. |
-| `/research` | Market research templates and persona-building worksheets. |
-| `/templates` | Pre-built markdown or text structures for copy, offers, and scripts. |
+| `/creative_research_playbook` | Playbook on doing market research to determine how to approach your creative process |
+| `/market_research` | Market research templates and persona-building worksheets. |
+| `/recipes` | Pre-built markdown recipes for generating more creative diversity|
 
 *(Structure may evolve as workflows become more defined.)*
 
